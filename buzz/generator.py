@@ -1,7 +1,7 @@
 from __future__ import print_function
 import random
 
-intro = "It's obvious that"
+intro = "It's obvious that - "
 buzz = ('continuous testing', 'continuous integration',
     'continuous deployment', 'continuous improvement', 'devops')
 adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
