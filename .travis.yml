@@ -1,3 +1,7 @@
+notifications:
+  email:
+    - aidaromar18@gmail.com
+
 sudo: required
 
 services:
